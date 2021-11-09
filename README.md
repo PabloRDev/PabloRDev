@@ -4,6 +4,8 @@
 
 <div align="center" width="50">
 
+  📓 My CV https://pablordev.github.io/CV-React/
+
 
 </div>
 
