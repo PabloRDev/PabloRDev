@@ -3,9 +3,10 @@
 </div>
 
 <div align="center" width="50">
-
-  📓 My CV https://pablordev.github.io/CV-React/
-
+  
+  👨🏾‍💻 Junior Software developer |--| REACT, REDUX, ANGULAR, NODE JS, EXPRESS, MONGO DB, PHP, SYMFONY, JS, BOOSTRAP, SCSS, HTML, GIT
+  
+  📄 My CV https://pablordev.github.io/CV-React/
 
 </div>
 
@@ -22,18 +23,12 @@ or <a href="mailto:pabloriojod@gmail.com"><b>email</b></a> me
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloRDev)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-</br>
-</br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablordev&hide=TeX&layout=compact)
+  
 ---
-
-<a href="https://www.linkedin.com/in/pablo-riojo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <p> Know me better! 👇</p>
+  
+  <a href="https://www.linkedin.com/in/pablo-riojo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
 
