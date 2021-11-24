@@ -6,7 +6,7 @@
   
   👨🏾‍💻 Junior Software developer |--| REACT, REDUX, ANGULAR, NODE JS, EXPRESS, MONGO DB, PHP, SYMFONY, JS, BOOSTRAP, SCSS, HTML, GIT
   
-  📄 My CV https://pablordev.github.io/CV-React/
+  📄 My CV https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:8e5e34a7-c745-4971-81fc-0062bf7f4f7f
 
 </div>
 
